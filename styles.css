@@ -19,6 +19,23 @@ header nav li a.nav-link {
     border: 0;
 }
 
+.carousel-item img {
+    max-height: 400px;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.carousel {
+    margin-top:40px;
+}
+
+.footer-address {
+    margin-right: auto;
+    margin-left: auto;
+    color:white;
+}
+
 section#hero {
     background-image: url('./images/hero-bg.png');
     background-size: cover;
