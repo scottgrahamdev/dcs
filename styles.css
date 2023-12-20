@@ -15,6 +15,16 @@ header nav li a.nav-link {
     text-transform: uppercase;
 }
 
+.footer-phone a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+.footer-phone a:hover {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
 .navbar-toggler {
     border: 0;
 }
